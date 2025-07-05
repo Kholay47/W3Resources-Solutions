@@ -1,2 +1,2 @@
-# HackerRank-Solutions
-This repo contains solution to HackerRank problems
+# W3Resources-Solutions
+This repo contains solution to W3Resources problems
